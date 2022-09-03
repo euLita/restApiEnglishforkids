@@ -1,0 +1,23 @@
+{
+  "name": "restApiEnglishforkids",
+  "version": "1.0.0",
+  "description": "rest API english for kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euLita/restApiEnglishforkids.git"
+  },
+  "keywords": [],
+  "author": "Talita Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euLita/restApiEnglishforkids/issues"
+  },
+  "homepage": "https://github.com/euLita/restApiEnglishforkids#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
