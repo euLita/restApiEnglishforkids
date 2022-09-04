@@ -1,0 +1,29 @@
+{
+  "user":[
+    {
+      "id": 1,
+      "name": "Families",
+      "email": "litas.educ@gmail.com",
+      "xp": 0,
+      "highscore": 0
+    }
+  ],
+  "categories": [
+  {
+    "id": 1,
+    "name": "Families",
+    "image": "file:///home/tata/Pictures/Screenshot%20from%202022-09-03%2019-40-29.png"
+  },
+  {
+    "id": 2,
+    "name": "Numbers",
+    "image": "file:///home/tata/Pictures/Screenshot%20from%202022-09-03%2019-40-29.png"
+  },
+  {
+    "name": "colors",
+    "image": "file:///home/tata/Pictures/Screenshot%20from%202022-09-03%2019-40-29.png",
+    "id": 3
+  }
+
+  ]
+}
